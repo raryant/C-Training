@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611766776 source:c:\users\rarya\documents\codeblock\c nim table\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<stdbool.h>
+
